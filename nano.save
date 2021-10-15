@@ -1,0 +1,3 @@
+#!/user/ bash
+
+~]# echo "Hello,World" > example.csv
