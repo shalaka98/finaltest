@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+#title 
+~]# echo "name, email, slack id, biostack" > TITLE.csv
