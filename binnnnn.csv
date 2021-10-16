@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#step 1 $ git clone https://github.com/shalaka98/finaltest.git
+
+#step 2 $ cd finaltest
+
+#step 3
+echo "name, email, slack, biostack" > header.csv
+
+#step 4
+
+for file in python_shalaka; do python3 python_shalaka >output123.txt; done;
